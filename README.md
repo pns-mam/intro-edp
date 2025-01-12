@@ -8,5 +8,5 @@
 - [Cédric Boulbe](https://math.univ-cotedazur.fr/~boulbe)
 
 ## Misc
-- [Canal slack](https://pns-mam3.slack.com/archives/C088D5YSDQU/p1736703841690129)
+- [Canal slack #ts2i de PNS-MAM3](https://pns-mam3.slack.com/archives/C088D5YSDQU/p1736703841690129)
 - [Discussions](https://github.com/pns-mam/ts2i/discussions/1)
