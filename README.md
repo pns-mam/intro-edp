@@ -1,12 +1,12 @@
 ![PNS](logo-pns.png)
-## MAM3 - TS2I
-# Traitement du signal et image
+## MAM3 - Intro-EDP
+# Introduction aux EDP
 # 2024-25
 
 ## Intervenants
-- [Didier Auroux](https://math.univ-cotedazur.fr/~auroux)
-- [Cédric Boulbe](https://math.univ-cotedazur.fr/~boulbe)
+- [Abderrahmane Habbal](mailto:abderrahmane.habbal@univ-cotedazur.fr)
+- [Chiara Simenoni](mailto:chiara.simeoni@univ-cotedazur.fr)
 
 ## Misc
-- [Canal slack #ts2i de PNS-MAM3](https://pns-mam3.slack.com/archives/C088D5YSDQU/p1736703841690129)
-- [Discussions](https://github.com/pns-mam/ts2i/discussions/1)
+- [Canal slack #intro-edp de PNS-MAM3](https://pns-mam3.slack.com/archives/C08A06CTL3S/p1737313521000039)
+- [Discussions](https://github.com/pns-mam/intro-edp/discussions/1)
